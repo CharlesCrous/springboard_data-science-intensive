@@ -43,7 +43,7 @@ from sklearn.metrics import accuracy_score
 accuracy = accuracy_score(labels_test, y_pred)
 print "accuracy score:", accuracy
 
-print "prdictions:", y_pred[10], y_pred[26], y_pred[50]
+print "predictions:", y_pred[10], y_pred[26], y_pred[50]
 
 #########################################################
 
