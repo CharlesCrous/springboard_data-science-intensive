@@ -1,19 +1,3 @@
-Skip to content
-This repository  
-Search
-Pull requests
-Issues
-Gist
- @CharlesCrous
- Unwatch 1
-  Star 1
-  Fork 1 CharlesCrous/springboard_data-science-intensive
- Code  Issues 0  Pull requests 0  Wiki  Pulse  Graphs  Settings
-Branch: master Find file Copy pathspringboard_data-science-intensive/machine_learning/decision_tree/dt_author_id.py
-1ab6fd4  18 days ago
-@CharlesCrous CharlesCrous add decision tree mini-project
-1 contributor
-RawBlameHistory     49 lines (33 sloc)  1.34 KB
 #!/usr/bin/python
 
 """ 
@@ -61,5 +45,4 @@ print "prediction time:", round(time()-t0, 3), "s"
 from sklearn.metrics import accuracy_score
 accuracy = accuracy_score(labels_test, y_pred)
 print "accuracy score:", accuracy
-Status API Training Shop Blog About Pricing
-© 2016 GitHub, Inc. Terms Privacy Security Contact Help
+#########################################################

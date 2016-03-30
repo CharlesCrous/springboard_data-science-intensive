@@ -1,19 +1,3 @@
-Skip to content
-This repository  
-Search
-Pull requests
-Issues
-Gist
- @CharlesCrous
- Unwatch 1
-  Star 1
-  Fork 1 CharlesCrous/springboard_data-science-intensive
- Code  Issues 0  Pull requests 0  Wiki  Pulse  Graphs  Settings
-Branch: master Find file Copy pathspringboard_data-science-intensive/machine_learning/naive_bayes/nb_author_id.py
-dd13c9a  20 days ago
-@CharlesCrous CharlesCrous add udacity intro to ml
-1 contributor
-RawBlameHistory     49 lines (31 sloc)  1.14 KB
 #!/usr/bin/python
 
 """ 
@@ -59,7 +43,3 @@ accuracy = accuracy_score(y_true, y_pred)
 
 print "accuracy score:", accuracy
 #########################################################
-
-
-Status API Training Shop Blog About Pricing
-© 2016 GitHub, Inc. Terms Privacy Security Contact Help

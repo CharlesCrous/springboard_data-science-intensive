@@ -1,19 +1,3 @@
-Skip to content
-This repository  
-Search
-Pull requests
-Issues
-Gist
- @CharlesCrous
- Unwatch 1
-  Star 1
-  Fork 1 CharlesCrous/springboard_data-science-intensive
- Code  Issues 0  Pull requests 0  Wiki  Pulse  Graphs  Settings
-Branch: master Find file Copy pathspringboard_data-science-intensive/machine_learning/svm/svm_author_id.py
-902b3f2  16 days ago
-@CharlesCrous CharlesCrous updating code
-1 contributor
-RawBlameHistory     51 lines (33 sloc)  1.31 KB
 #!/usr/bin/python
 
 """ 
@@ -61,7 +45,3 @@ print "accuracy score:", accuracy
 print "predictions:", y_pred[10], y_pred[26], y_pred[50]
 
 #########################################################
-
-
-Status API Training Shop Blog About Pricing
-© 2016 GitHub, Inc. Terms Privacy Security Contact Help
